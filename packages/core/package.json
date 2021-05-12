@@ -1,6 +1,6 @@
 {
   "name": "@xld-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "xld-cli-dev core",
   "author": "xuliangdong <1393679430@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "devDependencies": {
-    "@xld-cli-dev/utils": "^1.0.1"
+    "@xld-cli-dev/utils": "^1.0.2"
   },
   "gitHead": "6b0a7f1a7b593036f4fdebe959e8c337ecdeec81"
 }
