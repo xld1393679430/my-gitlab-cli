@@ -1,6 +1,6 @@
 {
   "name": "@xld-cli-dev/utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "xuliangdong <1393679430@qq.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "6b0a7f1a7b593036f4fdebe959e8c337ecdeec81"
+  "gitHead": "efd7385cce35ba7782ec064215561ed626c874bd"
 }
